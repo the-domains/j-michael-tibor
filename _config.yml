@@ -1,0 +1,28 @@
+name: J Michael Tibor
+favicon: null
+layout_spectrum: 0.6238719893153757
+typography_spectrum: 0.42323835380375385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.06320436694659293
+  lightness: 0.6467850557528436
+  saturation: 0.3578725354745984
+  rhythmicContrast: 0.47271375777199864
+purpose: []
